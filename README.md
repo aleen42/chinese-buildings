@@ -24,7 +24,7 @@ Here we know:
 - [**The City Walls (城墻)**](./wall/wall.md)
 - [**The Screen Walls (照壁)**](./screen_wall/screen_wall.md)
 - [**The Cabinets (閣樓)**](./cabinets/cabinets.md)
-- **The Bridges (游橋)**
+- [**The Bridges (游橋)**](./bridges/bridges.md)
 - **The Towers (塔)**
 - **The Houses (房)**
 - **The Interiors (内室)**
