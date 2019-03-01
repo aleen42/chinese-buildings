@@ -27,4 +27,4 @@ Here we know:
 - [**The Bridges (游橋)**](./bridges/bridges.md)
 - [**The Towers (塔)**](./towers/towers.md)
 - [**The Houses (房)**](./houses/houses.md)
-- **The Interiors (内室)**
+- [**The Interiors (内室)**](./interiors/interiors.md)
