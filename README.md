@@ -25,6 +25,6 @@ Here we know:
 - [**The Screen Walls (照壁)**](./screen_wall/screen_wall.md)
 - [**The Cabinets (閣樓)**](./cabinets/cabinets.md)
 - [**The Bridges (游橋)**](./bridges/bridges.md)
-- **The Towers (塔)**
+- [**The Towers (塔)**](./towers/towers.md)
 - **The Houses (房)**
 - **The Interiors (内室)**
