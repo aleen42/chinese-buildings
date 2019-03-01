@@ -17,7 +17,7 @@
     </tr>
 </table>
 
-Chinese buildings has attracted so many people around the world including hand painters from French. There was a book , named <**Essai sur l'architecture chinoise** (中國建築彩繪筆記·工具與樣式)>, has arisen during 1800s, the author of which is still a secret, as it was almost 300 years since now. It has collected some hand paintings around Chinese buildings, and I hope to use this project to sort out all those paints into an archive with specific categories. At the same time, I am also going to translate them into English so that we can clearly know about them without knowing french.
+Chinese buildings has attracted so many people around the world including hand painters from French. There was a book , named <[**Essai sur l'architecture chinoise**](https://gallica.bnf.fr/ark:/12148/btv1b55006437n) (中國建築彩繪筆記·工具與樣式)>, has arisen during 1800s, the author of which is still a secret, as it was almost 300 years since now. It has collected some hand paintings around Chinese buildings, and I hope to use this project to sort out all those paints into an archive with specific categories. At the same time, I am also going to translate them into English so that we can clearly know about them without knowing french.
 
 Here we know:
 
