@@ -1,4 +1,4 @@
-<h2 align="right">chinese-buildings</h2>
+## chinese-buildings
 
 <table>
     <tr>
