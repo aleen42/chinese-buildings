@@ -23,7 +23,7 @@ Here we know:
 
 - [**The City Walls (城墻)**](./wall/wall.md)
 - [**The Screen Walls (照壁)**](./screen_wall/screen_wall.md)
-- **The Cabinets (閣樓)**
+- [**The Cabinets (閣樓)**](./cabinets/cabinets.md)
 - **The Bridges (游橋)**
 - **The Towers (塔)**
 - **The Houses (房)**
