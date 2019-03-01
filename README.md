@@ -5,7 +5,7 @@ Chinese buildings has attracted so many people around the world including hand p
 Here we know:
 
 - [**The City Walls (城墻)**](./wall/wall.md)
-- **The Screen Walls (照壁)**
+- [**The Screen Walls (照壁)**](./screen_wall/screen_wall.md)
 - **The Cabinets (閣樓)**
 - **The Bridges (游橋)**
 - **The Towers (塔)**
