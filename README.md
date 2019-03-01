@@ -28,3 +28,4 @@ Here we know:
 - [**The Towers (塔)**](./towers/towers.md)
 - [**The Houses (房)**](./houses/houses.md)
 - [**The Interiors (内室)**](./interiors/interiors.md)
+- [**The "Tai" of Houses (楼台)**](./tai/tai.md)
