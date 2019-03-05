@@ -21,6 +21,7 @@ Chinese buildings has attracted so many people around the world including hand p
 
 Firstly, there is a series of images collected from the book:
 
+- [**The Architectural Tools (建築工具)**](./tools/tools.md)
 - [**The City Walls (城墻)**](./wall/wall.md)
 - [**The Screen Walls (照壁)**](./screen_wall/screen_wall.md)
 - [**The Cabinets (閣樓)**](./cabinets/cabinets.md)
