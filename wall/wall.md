@@ -1,5 +1,13 @@
 <h2 align="right">The City Wall (城墻) <a href="../README.md">Back</a></h2>
 
+In this chapter, we are going to see some walls, which are constructed of limes (石灰), and built between two boards. Some paintings among them were created at the first year during creating this book. We also saw an ancient tomb (墳墓) built around 10 decades ago.
+
+> Muraille de terre meslée de chaux, & batie entre deux planches. Celles qu'on fait aujourdhui s'éboulent quelque fois dès la premiére année. On en voit dans d'anciennes sépultues qui ont plus d'un siécle.
+
+The first paints here is to describe a kind of wall, used in around farms.
+
+> Ce genre de Murailles sont utilisées dans les Potagers.
+
 <table>
     <tr>
         <td align="center"><p>Walls around farms</p><p>菜圃子土墻</p></td>
