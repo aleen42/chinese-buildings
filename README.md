@@ -23,6 +23,7 @@ Firstly, there is a series of images collected from the book:
 
 - [**The Architectural Tools (建築工具)**](./tools/tools.md)
 - [**The Architectural Materials (建築用料)**](./materials/materials.md)
+- [**Tiles (磚瓦)**](./tiles/tiles.md)
 - [**The City Walls (城墻)**](./wall/wall.md)
 - [**The Screen Walls (照壁)**](./screen_wall/screen_wall.md)
 - [**The Cabinets (閣樓)**](./cabinets/cabinets.md)
