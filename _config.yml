@@ -10,3 +10,4 @@ kramdown:
 
 plugins:
   - jemoji
+  - jekyll-relative-links
